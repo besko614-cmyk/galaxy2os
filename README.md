@@ -11,3 +11,7 @@ hardware to test on and time to keep improving the system.
 [![Donate with Stripe](https://img.shields.io/badge/Donate-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/9B66oJ93C1TL8cGfaggQE00)
 
 Card payment is handled securely by Stripe; you choose the amount. Thank you for your support!
+
+## Licence
+
+GalaxyOS original work (galaxy-* commands, scripts, configuration, artwork and system layout) is proprietary: copying, cloning, redistribution and use for AI training are not allowed. See [LICENSE](LICENSE). Open source components keep their own licences (see NOTICE.txt in each release).

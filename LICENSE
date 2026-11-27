@@ -1,0 +1,63 @@
+GalaxyOS 2 - Proprietary Licence for GalaxyOS Original Work
+==========================================================
+
+Copyright (c) 2026 bes (www.starwarsaud.com). All rights reserved.
+
+1. What this licence covers
+---------------------------
+This licence covers the GalaxyOS Original Work: everything in GalaxyOS 2
+that was written or made for GalaxyOS and is not a third-party component.
+That includes the galaxy-* commands and the other GalaxyOS scripts in
+/usr/local/bin and /usr/local/lib, the boot, init and configuration files
+written for GalaxyOS (such as /etc/init.d/rcS and /etc/galaxy), the menus,
+desktop configuration, themes, wallpaper, logo, icons and artwork, the
+installer, updater and activation system, and the layout and arrangement
+of the system as a whole.
+
+It does NOT cover the free and open source components listed in NOTICE
+(the Linux kernel, BusyBox, Firefox, LibreOffice and the others). Each of
+those keeps its own licence, and nothing here limits your rights under
+those licences. Their source code is available as described in NOTICE.
+
+2. What you may do
+------------------
+If you have a valid copy of GalaxyOS 2 you may install it and use it on
+your own computers or virtual machines, and make backup copies for
+yourself.
+
+3. What you may not do
+----------------------
+Unless bes gives you permission in writing, you may not:
+
+  a) copy, republish, sell, rent, share or redistribute the GalaxyOS
+     Original Work, alone or as part of another product;
+  b) modify it, translate it, or make derivative works or "clones" based
+     on it, including systems that copy its commands, menus, scripts,
+     look, structure or file layout;
+  c) reverse engineer, unpack, decompile or extract it in order to copy
+     or reproduce it, except where the law allows this anyway;
+  d) remove or change the copyright, trademark or licence notices;
+  e) use any part of the GalaxyOS Original Work, its file structure or
+     its documentation to train, fine-tune, evaluate or prompt any
+     artificial intelligence or machine learning system, or put it into a
+     dataset, code index or retrieval system for such systems;
+  f) use automated tools, bots, scrapers or AI agents to collect, analyse
+     or reproduce the GalaxyOS Original Work for any of the purposes in
+     (a) to (e).
+
+4. Trademarks
+-------------
+GalaxyOS(TM), the GalaxyOS 2 name and logo are trademarks of bes. This
+licence gives you no right to use them.
+
+5. Ending the licence
+---------------------
+If you break this licence, your right to use the GalaxyOS Original Work
+ends automatically.
+
+6. No warranty
+--------------
+GalaxyOS 2 is provided "as is", without warranty of any kind, to the
+extent the law allows.
+
+Contact: www.starwarsaud.com
